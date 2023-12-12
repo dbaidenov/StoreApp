@@ -1,0 +1,15 @@
+.shopCard {
+    &--img {
+        width: 125px;
+        height: 75px;
+        object-fit: contain
+    }
+
+    &--cnt {
+        font-size: 1rem
+    }
+
+    &--price {
+        font-size: .75rem;
+    }
+}
